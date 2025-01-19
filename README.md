@@ -8,17 +8,17 @@ File metadata microservice for Back End Development and APIs in [freeCodeCamp](h
 
 ### Languages
 
-- [![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=e65127)](https://html5.org/)
-- [![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=306AF1)](https://www.w3.org/Style/CSS/Overview.en.html)
-- [![JavaScript](https://img.shields.io/badge/Javascript-383936?style=for-the-badge&logo=javascript)](https://js.org/index.html)
+- [HTML5]
+-[CSS3]
+- [JavaScript]
 
 ### Packages
 
-- [![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)](https://expressjs.com/)
+- [Express]
 
 ### Runtime
 
-- [![Node.js](https://img.shields.io/badge/Node.js-233056?style=for-the-badge&logo=nodedotjs)](https://nodejs.org/en)
+- [Node.js]
 
 ## Getting Started
 
